@@ -1,0 +1,256 @@
+#label_form{
+
+	font-size: 10pt;
+}
+#content_table_view{
+
+	width: 100%;
+	height: auto;
+}
+#content_table{
+	padding: 0.2%;
+}
+#content_sesion{
+
+	width: 200px;
+	height: 70px;
+	float: right;
+}
+#content_sesion_fll{
+
+	width: 200px;
+	height: 70px;
+	float: right;
+}
+#content_user{
+
+	width: 200px;
+	height: auto;
+	margin-top: 10px;
+}
+#content_logout{
+
+	width: 130px;
+	height: auto;
+	margin-top: 5px;
+}
+#input_search{
+
+	border-radius:4px;
+	width: 160px;
+	height: 30px;
+
+}
+
+.button_login{
+
+	border-style:none;
+	background-color: white;
+}
+
+.button_login_index{
+
+	border-style:none;
+	background-color:  #E5F4FB;
+}
+
+#leyenda{
+
+	width: 500px;
+	height: 30px; 
+	margin: 0 auto;
+	font-size: 9pt;
+}
+
+#div_panel-body{
+
+	padding-top:30px;
+}
+
+#input{
+
+	margin-bottom: 25px;
+}
+
+#loginbox{
+
+	margin-top: 5%;
+}
+
+#title{
+
+	font-family:sans-serif;
+	font-weight: normal;
+
+}
+
+.fieldset_edit{
+
+  border: 1px solid #EEEEEE;
+  border-radius:5px;
+  width: 70%;
+  padding: 1%;
+
+}
+
+.row{
+
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.input_color{
+
+	width: 25px;
+	height: 25px;
+	border-radius: 15px;
+	border-style: none;
+	margin-top: 3px;
+	margin-right: 10%;
+	margin-left: 3%;
+}
+
+.row .form-group .input-group-addon {
+  background-color: #eee;
+  border-right: 1px solid #ccc;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 0;
+  border-bottom: 0;
+  margin-left: 20px;
+}
+
+.row .form-group textarea.form-control {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 580%;
+}
+
+#title{
+
+	width:400px;
+
+}
+
+#date_event{
+
+	width:400px;
+
+}
+
+#hour_event{
+
+	width:400px;
+}
+
+#coment{
+
+	width:400px;
+
+}
+
+#detele_event{
+
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#establishment{
+
+	width:400px;
+}
+
+#name_establishment{
+
+	width:400px;
+}
+
+#name_place{
+
+	width:400px;
+}
+
+#combobox{
+
+	width: 100px;
+	height: 80px;
+}
+
+
+/**ICONOS ADMINISTRACION***/
+
+#content_icon{
+
+	width: 400px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 5%;
+
+}
+
+#icon_dep{
+
+	width: auto;
+ 	height: auto;
+  	float: left;
+    margin-right: 15%;
+
+  }
+
+#icon_user{
+
+	width: auto;
+	height: auto;
+	float: right;
+}
+
+#icon_place{
+
+	width: auto;
+ 	height: auto;
+  	float: left;
+    margin-right: 15%;
+
+}
+
+#span_dep{
+
+	font-weight: bold;
+}
+
+#span_user{
+
+	font-weight: bold;
+	margin-left: 5%;
+
+}
+
+
+/**FIN ICONOS ADMINISTRACION***/
+
+.space_span{
+
+	margin-right: 10px;
+}
+
+#div_print{
+
+	width:auto;
+	height:auto;
+	margin:0 auto;
+	border-radius:10px;
+	font-size:15pt;
+	margin-top:3%;
+	padding-left:30px;
+	padding:30px;
+}
+.title_timeline{
+
+	margin-top: 20px;
+}
+
+#button_table{
+
+	float: right;
+}
