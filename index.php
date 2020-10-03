@@ -1,5 +1,5 @@
 <?php
-
+//Comentario de prueba
 //Valida los datos del login 
 include('login/validate_sesion.php'); 
 
